@@ -47,3 +47,7 @@ dist/
 # Others
 *.sqlite3
 *.db
+
+logs/
+plugins/
+working_data/
