@@ -22,8 +22,8 @@ if __name__ == '__main__':
     try:
         # Load the trained model
         model_version = f'model_{timestamp}_rf_model'
-        model_path = f'../working_data/{model_version}.joblib'
-        
+        model_path = f'working_data/{model_version}.joblib'
+        print("Model path", model_path)
         if not os.path.exists(model_path):
             # Try alternative path
             model_path = f'{model_version}.joblib'

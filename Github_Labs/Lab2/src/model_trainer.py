@@ -27,7 +27,7 @@ def train_models(data,filename):
     
     print(f"Model trained. Validation RMSE: {val_rmse:.2f}")
     
-    models_dir = os.path.join(os.path.dirname(__file__), "../../working_data")
+    models_dir = os.path.join(os.path.dirname(__file__), "../working_data")
     os.makedirs(models_dir, exist_ok=True)
     
     output_path = os.path.join(models_dir, filename)
