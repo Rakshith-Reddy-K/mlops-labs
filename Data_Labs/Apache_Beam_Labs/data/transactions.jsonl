@@ -1,0 +1,10 @@
+{"order_id": "001", "customer": "Alice", "product": "Laptop", "category": "Electronics", "amount": 1200, "quantity": 1, "date": "2024-01-15"}
+{"order_id": "002", "customer": "Bob", "product": "Mouse", "category": "Electronics", "amount": 25, "quantity": 2, "date": "2024-01-15"}
+{"order_id": "003", "customer": "Alice", "product": "Desk", "category": "Furniture", "amount": 350, "quantity": 1, "date": "2024-01-16"}
+{"order_id": "004", "customer": "Charlie", "product": "Chair", "category": "Furniture", "amount": 150, "quantity": 4, "date": "2024-01-16"}
+{"order_id": "005", "customer": "Bob", "product": "Monitor", "category": "Electronics", "amount": 300, "quantity": 1, "date": "2024-01-17"}
+{"order_id": "006", "customer": "Alice", "product": "Keyboard", "category": "Electronics", "amount": 80, "quantity": 1, "date": "2024-01-17"}
+{"order_id": "007", "customer": "David", "product": "Bookshelf", "category": "Furniture", "amount": 200, "quantity": 2, "date": "2024-01-18"}
+{"order_id": "008", "customer": "Charlie", "product": "Lamp", "category": "Furniture", "amount": 45, "quantity": 3, "date": "2024-01-18"}
+{"order_id": "009", "customer": "Eve", "product": "Phone", "category": "Electronics", "amount": 800, "quantity": 1, "date": "2024-01-19"}
+{"order_id": "010", "customer": "David", "product": "Tablet", "category": "Electronics", "amount": 450, "quantity": 2, "date": "2024-01-19"}
